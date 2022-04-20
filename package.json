@@ -1,0 +1,15 @@
+{
+  "name": "demo-lhci-login",
+  "version": "1.0.0",
+  "description": "dotnet new razor -au individual -o src/web -n web dotnet run --project src/web",
+  "main": "lighthouserc.js",
+  "scripts": {
+    "test": "dotnet test",
+    "start": "dotnet run --project src/web"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^13.5.2"
+  }
+}
